@@ -1,5 +1,3 @@
-import Image from "next/image";
-import { Button } from "@/components/ui/button";
 import { getServerSession } from "next-auth";
 import { authOptions } from "./utils/auth";
 import LogoutButton from "@/components/shared/LogoutButton";
